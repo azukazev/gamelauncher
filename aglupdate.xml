@@ -4,7 +4,7 @@
   <style type="text/css" id="dark-mode-custom-style" />
   <link type="text/css" id="dark-mode" rel="stylesheet" href="moz-extension://77a5137e-22b8-4aaa-8fc6-ad492afb7bea/data/content_script/general/dark_1.css" />
   <style type="text/css" id="dark-mode-custom-style" />
-  <version>3.1.19.613</version>
+  <version>3.1.19.615</version>
   <url>https://azukazev.github.io/gamelauncher/aglupdate.zip</url>
   <changelog />
   <mandatory>false</mandatory>
