@@ -1,2 +1,2 @@
-# Azev Game Launcher version 3.1.19.615
+# Azev Game Launcher version 3.1
 Game and Application Menu Launcher
